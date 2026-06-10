@@ -9,7 +9,7 @@ Desarrollador con experiencia construyendo productos reales en startups colombia
 
 ## Experiencia
 
-**Roc360** · Nueva York, EE.UU *(actual)*  
+**Roc360** · Nueva York, EE.UU
 Plataforma fintech líder en préstamos para inversión inmobiliaria residencial en EE.UU — reconocida dos años consecutivos en el Deloitte Technology Fast 500.  
 Colaborador de desarrollo backend con Java y Spring Boot.
 
@@ -42,8 +42,8 @@ Desarrollo full stack con Next.js, React y TypeScript.
 <p>
   <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32" height="32" alt="Spring Boot" title="Spring Boot" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/java/F89820" width="32" height="32" alt="Java" title="Java" />
-  &nbsp;
+ <img src="https://cdn.simpleicons.org/java/F89820" width="32" height="32" alt="Java" title="Java" />
+   &nbsp;
   <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="32" height="32" alt="AdonisJS" title="AdonisJS" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" height="32" alt="Node.js" title="Node.js" />
