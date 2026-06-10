@@ -42,7 +42,7 @@ Desarrollo full stack con Next.js, React y TypeScript.
 <p>
   <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32" height="32" alt="Spring Boot" title="Spring Boot" />
   &nbsp;
- <img src="https://cdn.simpleicons.org/java/F89820" width="32" height="32" alt="Java" title="Java" />
+ <img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white" height="28" alt="Java" />
    &nbsp;
   <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="32" height="32" alt="AdonisJS" title="AdonisJS" />
   &nbsp;
