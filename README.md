@@ -1,49 +1,82 @@
-# Hey, soy Manuel Cerón 👋
+<h1 align="center">Manuel Cerón</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-Desarrollador **Full Stack** con experiencia real en empresas colombianas de tecnología. Me muevo cómodo tanto en el frontend como en el backend, y disfruto construir productos que funcionen bien de punta a punta.
+<br/>
+
+Desarrollador con experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
 
 ---
 
-## 🛠️ Stack tecnológico
+## Experiencia
+
+**Roc360** · Nueva York, EE.UU *(actual)*  
+Plataforma fintech líder en préstamos para inversión inmobiliaria residencial en EE.UU — reconocida dos años consecutivos en el Deloitte Technology Fast 500.  
+Colaborador de desarrollo backend con Java y Spring Boot.
+
+**Certiblock** · Colombia  
+Startup legaltech que certifica documentos y procesos empresariales sobre tecnología blockchain.  
+Desarrollo full stack con Next.js, React, TypeScript y AdonisJS.
+
+**Quantum Developers** · Colombia  
+Empresa de desarrollo de software a medida.  
+Desarrollo full stack con Next.js, React y TypeScript.
+
+---
+
+## Stack
 
 **Frontend**
-- React · Next.js · TypeScript · Tailwind CSS
+
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="32" height="32" alt="Next.js" title="Next.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
 **Backend**
-- Spring Boot · Java · AdonisJS · Node.js · TypeScript
+
+<p>
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32" height="32" alt="Spring Boot" title="Spring Boot" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/java/007396" width="32" height="32" alt="Java" title="Java" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="32" height="32" alt="AdonisJS" title="AdonisJS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" height="32" alt="Node.js" title="Node.js" />
+</p>
 
 **Bases de datos**
-- PostgreSQL · SQL
+
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" alt="MySQL" title="MySQL" />
+</p>
 
 **Herramientas**
-- Git · GitHub · REST APIs
+
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker" title="Docker" />
+</p>
 
 ---
 
-## 💼 Experiencia
+## Contacto
 
-**Prestador de servicios** — Empresa de software *(actual)*
-- Desarrollo backend con **Spring Boot** y **Java**
-
-**Desarrollador Full Stack** — Certiblock *(Colombia)*
-- Desarrollo frontend y backend con **Next.js**, **React**, **TypeScript** y **AdonisJS**
-
-**Desarrollador Full Stack** — Quantum Developers *(Colombia)*
-- Desarrollo de aplicaciones web con stack JavaScript/TypeScript
-
----
-
-## 🚀 Proyectos destacados
-
-> *Próximamente — portafolio en construcción*
-
----
-
-## 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Cerón-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/manuel-cer%C3%B3n-564b52304/)
-[![Email](https://img.shields.io/badge/Email-juanmanuelceronfernandez123%40gmail.com-D14836?style=flat&logo=gmail)](mailto:juanmanuelceronfernandez123@gmail.com)
-
----
-
-*Siempre abierto a nuevos proyectos y colaboraciones.*
+<p>
+  <a href="https://www.linkedin.com/in/manuel-cer%C3%B3n-564b52304/">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:juanmanuelceronfernandez123@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" />
+  </a>
+</p>
