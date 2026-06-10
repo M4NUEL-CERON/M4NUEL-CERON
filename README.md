@@ -42,7 +42,7 @@ Desarrollo full stack con Next.js, React y TypeScript.
 <p>
   <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32" height="32" alt="Spring Boot" title="Spring Boot" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/java/007396" width="32" height="32" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/java/F89820" width="32" height="32" alt="Java" title="Java" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="32" height="32" alt="AdonisJS" title="AdonisJS" />
   &nbsp;
@@ -60,7 +60,7 @@ Desarrollo full stack con Next.js, React y TypeScript.
 **Herramientas**
 
 <p>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/git/FF6B35" width="32" height="32" alt="Git" title="Git" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" title="GitHub" />
   &nbsp;
@@ -73,7 +73,7 @@ Desarrollo full stack con Next.js, React y TypeScript.
 
 <p>
   <a href="https://www.linkedin.com/in/manuel-cer%C3%B3n-564b52304/">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="28" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Manuel%20Cerón-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:juanmanuelceronfernandez123@gmail.com">
