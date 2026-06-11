@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manuel%20Cer%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:333333,100:5A5A5A&height=220&section=header&text=Manuel%20Cer%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8871E5&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+AdonisJS;%2B5+a%C3%B1os+construyendo+productos+reales" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=4000&pause=900&color=9E9E9E&center=true&vCenter=true&width=680&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+AdonisJS;%2B5+a%C3%B1os+construyendo+productos+reales" alt="Typing" />
 </p>
 
 <p align="center">
@@ -161,4 +161,4 @@ Desarrollo full stack con **Next.js**, **React** y **TypeScript**.
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:333333,100:5A5A5A&height=120&section=footer" width="100%" />
