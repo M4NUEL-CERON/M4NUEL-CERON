@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%" />
+
 <h1 align="center">Manuel Cerón</h1>
 <h3 align="center">Full Stack Developer</h3>
 <br/>
@@ -153,3 +156,5 @@ Desarrollo full stack con Next.js, React y TypeScript.
   </tr>
 </table>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" />
