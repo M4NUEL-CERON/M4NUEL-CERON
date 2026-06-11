@@ -15,6 +15,7 @@ Desarrollador +5 años de experiencia construyendo productos reales en startups 
 ## Experiencia
 
 **Roc360** · Nueva York, EE.UU
+
 Plataforma fintech líder en préstamos para inversión inmobiliaria residencial en EE.UU — reconocida dos años consecutivos en el Deloitte Technology Fast 500.  
 Colaborador de desarrollo backend con Java y Spring Boot.
 
