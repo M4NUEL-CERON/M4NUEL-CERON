@@ -1,9 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manuel%20Cer%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=58" width="100%" />
 
-<h1 align="center">Manuel Cerón</h1>
-<h3 align="center">Full Stack Developer</h3>
-<br/>
 
 Desarrollador +5 años de experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
 
