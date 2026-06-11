@@ -3,7 +3,7 @@
 
 <br/>
 
-Desarrollador con experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
+Desarrollador +5 años de experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
 
 ---
 <picture>
