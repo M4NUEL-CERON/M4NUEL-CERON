@@ -18,6 +18,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
 </picture>
 </div>
+<div align="center">
+<sub>Parte de esta gráfica contiene commits decorativos para la animación. Mi trabajo real está en los repositorios y en mi experiencia profesional.</sub>
+</div>
 
 ---
 
