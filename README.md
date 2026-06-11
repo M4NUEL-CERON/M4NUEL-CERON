@@ -1,6 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manuel%20Cer%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=58" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8871E5&center=true&vCenter=true&width=500&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+AdonisJS;%2B5+a%C3%B1os+construyendo+productos+reales" alt="Typing" />
+</p>
 
 Desarrollador +5 años de experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
 
