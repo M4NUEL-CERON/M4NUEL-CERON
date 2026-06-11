@@ -1,30 +1,40 @@
 <h1 align="center">Manuel Cerón</h1>
 <h3 align="center">Full Stack Developer</h3>
-
 <br/>
 
 Desarrollador +5 años de experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
 </picture>
 
+---
+
 ## Experiencia
 
-**Roc360** · Nueva York, EE.UU
+<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/main/coding.gif" />
+
+**Roc360** · Nueva York, EE.UU  
 Plataforma fintech líder en préstamos para inversión inmobiliaria residencial en EE.UU — reconocida dos años consecutivos en el Deloitte Technology Fast 500.  
 Colaborador de desarrollo backend con Java y Spring Boot.
+
+<br/>
 
 **Certiblock** · Colombia  
 Startup legaltech que certifica documentos y procesos empresariales sobre tecnología blockchain.  
 Desarrollo full stack con Next.js, React, TypeScript y AdonisJS.
 
+<br/>
+
 **Quantum Developers** · Colombia  
 Empresa de desarrollo de software a medida.  
 Desarrollo full stack con Next.js, React y TypeScript.
+
+<br clear="right"/>
 
 ---
 
@@ -47,8 +57,8 @@ Desarrollo full stack con Next.js, React y TypeScript.
 <p>
   <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32" height="32" alt="Spring Boot" title="Spring Boot" />
   &nbsp;
- <img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white" height="28" alt="Java" />
-   &nbsp;
+  <img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white" height="28" alt="Java" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="32" height="32" alt="AdonisJS" title="AdonisJS" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" height="32" alt="Node.js" title="Node.js" />
