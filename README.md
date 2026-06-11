@@ -6,6 +6,11 @@
 Desarrollador con experiencia construyendo productos reales en startups colombianas y empresas internacionales. Me muevo en el stack completo — desde interfaces en React y Next.js hasta APIs en Spring Boot y AdonisJS.
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
+</picture>
 
 ## Experiencia
 
