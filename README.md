@@ -28,9 +28,6 @@
 
 <img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/main/coding.gif" />
 
-### Roc360 · Nueva York, EE.UU
-
-Plataforma fintech líder en préstamos para inversión inmobiliaria residencial en EE.UU — reconocida dos años consecutivos en el Deloitte Technology Fast 500.
 Colaborador de desarrollo backend con **Java** y **Spring Boot**.
 
 ### Certiblock · Colombia
