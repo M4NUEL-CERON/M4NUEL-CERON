@@ -9,8 +9,6 @@
   Me muevo en el stack completo — desde interfaces en <b>React</b> y <b>Next.js</b> hasta APIs en <b>Spring Boot</b> y <b>AdonisJS</b>.
 </p>
 
----
-
 <h2 align="center">Experiencia</h2>
 
 <img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/main/coding.gif" />
