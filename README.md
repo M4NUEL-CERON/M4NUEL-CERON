@@ -11,19 +11,6 @@
 
 ---
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/output/github-snake.svg" />
-</picture>
-</div>
-<div align="center">
-<sub>Parte de esta gráfica contiene commits decorativos para la animación. Mi trabajo real está en los repositorios y en mi experiencia profesional.</sub>
-</div>
-
----
-
 <h2 align="center">Experiencia</h2>
 
 <img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/main/coding.gif" />
