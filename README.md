@@ -1,151 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:333333,100:5A5A5A&height=220&section=header&text=Manuel%20Cer%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=24&descAlignY=58" width="100%" />
+<a href="https://manuelceron.vercel.app">
+  <img src="assets/banner.png" alt="Manuel Cerón — Full Stack Developer" width="100%" />
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=4000&pause=900&color=9E9E9E&center=true&vCenter=true&width=680&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+AdonisJS;%2B5+a%C3%B1os+construyendo+productos+reales" alt="Typing" />
-</p>
+I build web products end to end: **Java and Spring Boot APIs** underneath, **React and TypeScript** on top.
+2+ years of professional work at Quantum Developers, remote from Cuenca, Ecuador (UTC−5). **Open to remote roles.**
 
-<p align="center">
-  Desarrollador con +5 años de experiencia construyendo productos reales en startups colombianas y empresas internacionales.<br/>
-  Me muevo en el stack completo — desde interfaces en <b>React</b> y <b>Next.js</b> hasta APIs en <b>Spring Boot</b> y <b>AdonisJS</b>.
-</p>
+**[Portfolio](https://manuelceron.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/manuel-cer%C3%B3n-564b52304/)** · **[CV (PDF)](https://manuelceron.vercel.app/files/CV_Manuel_EN.pdf)** · juanmanuelceronfernandez123@gmail.com
 
+## Featured projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| **CuteURL** · [live demo](https://m4nuel-ceron.github.io/CuteURL-Frontend/) · [backend](https://github.com/M4NUEL-CERON/CuteURL_Backend) · [frontend](https://github.com/M4NUEL-CERON/CuteURL-Frontend) | URL shortener with no sign-up. Atomic writes with Redis `SETNX`, retry on code collision, expiring links, 302 redirects. | Java 17 · Spring Boot · Redis · React · TypeScript · GitHub Actions |
+| **API Performance Monitor** · [repo](https://github.com/M4NUEL-CERON/api-performance-monitor) | A REST API that measures itself: one endpoint returns live RPS, p50/p99/p99.5 latency per endpoint and JVM health, built on Micrometer. | Java · Spring Boot · Actuator · Micrometer · Prometheus · JPA |
+| **Portfolio** · [site](https://manuelceron.vercel.app) · [repo](https://github.com/M4NUEL-CERON/portfolio) | My work drawn as a night transit network. Bilingual (EN/ES), statically rendered. | Next.js · TypeScript · Vercel |
 
-<h2 align="center">Experiencia</h2>
+## At work
 
-<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/M4NUEL-CERON/M4NUEL-CERON/main/coding.gif" />
+**Full Stack Developer · Quantum Developers** (Aug 2024 — now)
 
-Colaborador de desarrollo backend con **Java** y **Spring Boot**.
+- Rewards and points-redemption APIs on AWS Lambda, integrating Uber, Bancolombia and Rappi
+- Real-time chatbot over WebSockets (STOMP), with Redis Pub/Sub carrying messages across instances
+- Performance monitoring app with Spring Boot, Actuator, Micrometer and Prometheus
+- AI application on AWS Bedrock, and web apps with React, Next.js and TypeScript
 
-### Certiblock · Colombia
+## Stack
 
-Startup legaltech que certifica documentos y procesos empresariales sobre tecnología blockchain.
-Desarrollo full stack con **Next.js**, **React**, **TypeScript** y **AdonisJS**.
-
-### Quantum Developers · Colombia
-
-Empresa de desarrollo de software a medida.
-Desarrollo full stack con **Next.js**, **React** y **TypeScript**.
-
-<br clear="right"/>
-
----
-
-<h2 align="center">Stack</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br><b>Next.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br><b>TypeScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br><b>Tailwind</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <br><b>Spring Boot</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=adonis" width="48" height="48" alt="AdonisJS" />
-      <br><b>AdonisJS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><b>Node.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br><b>AWS</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br><b>Vercel</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><b>Figma</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br><b>Postman</b>
-    </td>
-    <td align="center" width="96"></td>
-  </tr>
-</table>
-</div>
-
----
-
-<h2 align="center">Contacto</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/manuel-cer%C3%B3n-564b52304/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-      </a>
-      <br><b>LinkedIn</b>
-    </td>
-    <td align="center" width="96">
-      <a href="mailto:juanmanuelceronfernandez123@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-      </a>
-      <br><b>Gmail</b>
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:333333,100:5A5A5A&height=120&section=footer" width="100%" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,postgres,redis,aws,docker&theme=dark" alt="Java, Spring Boot, React, TypeScript, Next.js, PostgreSQL, Redis, AWS, Docker" />
